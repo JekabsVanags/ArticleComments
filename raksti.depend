@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1651763342 source:c:\users\jecob\desktop\documents\uni\sem ii\coding\raksti\main.cpp
+	<iostream>
+	<fstream>
+
